@@ -1,0 +1,16 @@
+{
+    "name": "SPO View It",
+    "version": "1.0",
+    "description": "Force SPO to Reading View",
+    "background": {
+        "scripts": [ "background.js" ]
+    },
+    "permissions": [
+        "webRequest",
+        "webRequestBlocking",
+        "https://*.sharepoint.com/*"
+      ],
+    // http://www.iconarchive.com/show/influenza-icons-by-cute-little-factory/Aspirin-icon.html
+    "icons": { "16": "icon16.png", "32": "icon32.png", "48": "icon48.png", "128": "icon128.png" },
+    "manifest_version": 2
+}
