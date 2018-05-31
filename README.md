@@ -1,4 +1,4 @@
-# spo_view_it
+# SharePoint Online View It (spo_view_it)
 Force SPO to Reading View
 
 Sometimes SharePoint Online defaults to opening a Word or Excel document in the *Editing View* instead of the preferred *Reading View*.
