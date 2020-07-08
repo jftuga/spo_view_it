@@ -10,3 +10,14 @@ Sometimes SharePoint Online defaults to opening a Word or Excel document in the 
 * you will still be able to then use: Edit Document -> Edit in Browser
 
 Icon Used: http://www.iconarchive.com/show/influenza-icons-by-cute-little-factory/Aspirin-icon.html
+
+____
+
+## July 2020 Update
+
+The SharePoint online backend must have changed and `version 1.0` is no longer compatible.  You will need you upgrade this extension to `version 1.1`.
+
+This is how `version 1.1` changes a *sharepoint.com* URL:
+* Removes any *action=* parameter
+* Removes any *mobileredirect=* parameter
+* Then appends: *&DefaultItemOpen=1&Action=View* to the end of the URL
