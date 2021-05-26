@@ -1,5 +1,6 @@
 # SharePoint Online View It (spo_view_it)
-Force SPO to Reading View
+Chrome extension to force SharePoint Online to use Reading View for Word and Excel documents
+
 
 Available on [Chrome Web Store: SPO View It](https://chrome.google.com/webstore/detail/spo-view-it/omljlibfjloccmdmmlpcnlijjneabhjm)
 
