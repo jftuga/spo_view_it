@@ -16,7 +16,7 @@ ____
 
 ## July 2020 Update
 
-The SharePoint online backend must have changed and `version 1.0` is no longer compatible.  You will need you upgrade this extension to `version 1.1`.
+The SharePoint online backend must have changed and `version 1.0` is no longer compatible.  You will need to upgrade this extension to `version 1.1`.
 
 This is how `version 1.1` changes a *sharepoint.com* URL:
 * Removes any `action=` parameter
